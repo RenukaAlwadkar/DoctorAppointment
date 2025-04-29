@@ -2,7 +2,7 @@
 
 Developed by **Renuka Alwadkar**
 
-DoctorOnCall is a full-stack web application built to streamline the process of booking and managing doctor appointments. Patients can easily schedule appointments with available doctors, including emergency bookings, while doctors and admins can manage scheduling and view appointments efficiently.
+Doctor Appointment System is a full-stack web application built to streamline the process of booking and managing doctor appointments. Patients can easily schedule appointments with available doctors, including emergency bookings, while doctors and admins can manage scheduling and view appointments efficiently.
 
 
 ## 🚀 Features
