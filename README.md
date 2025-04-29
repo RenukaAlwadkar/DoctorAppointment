@@ -39,5 +39,5 @@ Doctor Appointment System is a full-stack web application built to streamline th
 
 ---
 
-## 📁 Folder Structure
+
 
